@@ -1,0 +1,7 @@
+./Code/.ipynb_checkpoints/
+*.log
+*.aux
+*.synctex.gz
+*.out
+.DS_Store
+.Rapp.history
