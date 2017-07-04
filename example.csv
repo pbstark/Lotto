@@ -1,5 +1,10 @@
-Probability,Number,Cost
-0.0001,5,1
-0.000000213,1,5
-0.00000666667,2,4
-0.0000001,6,2
+name,game,probability,wins,cost
+alice,game1,0.0001,5,1
+alice,game2,0.000000213,1,5
+alice,game3,0.00000666667,2,4
+alice,game4,0.0000001,6,2
+bob,game1,0.0001,5,1
+bob,game2,0.000000213,1,5
+bob,game3,0.00000666667,2,4
+bob,game4,0.0000001,6,2
+bob,game5,0.0000001,10,5
